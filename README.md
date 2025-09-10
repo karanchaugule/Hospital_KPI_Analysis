@@ -1,4 +1,4 @@
-# Massachusetts General Hospital KPI Analysis
+# Massachusetts General Hospital KPI Analysis.
 
 ## Overview
 
